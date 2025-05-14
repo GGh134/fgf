@@ -1,0 +1,9 @@
+﻿  WindowsProject3.cpp
+C:\Users\пк\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(26,9): warning C4005: IDC_COMBO_CURRENCY: изменение макроопределения
+      C:\Users\пк\source\repos\WindowsProject3\WindowsProject3\resource.h(15,9):
+      см. предыдущее определение "IDC_COMBO_CURRENCY"
+  
+C:\Users\пк\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(77,29): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\пк\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(82,29): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\пк\source\repos\WindowsProject3\WindowsProject3\WindowsProject3.cpp(224,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  WindowsProject3.vcxproj -> C:\Users\пк\source\repos\WindowsProject3\x64\Debug\WindowsProject3.exe
